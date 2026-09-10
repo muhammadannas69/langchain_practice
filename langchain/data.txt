@@ -1,0 +1,19 @@
+Python is a high-level programming language known for its simple and readable syntax. It is widely used in web development, data science, artificial intelligence, machine learning, automation, and scripting.
+
+Python was created by Guido van Rossum and was first released in 1991. One of the main reasons Python became popular is its beginner-friendly syntax and large ecosystem of libraries.
+
+Artificial Intelligence is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence. These tasks include understanding language, recognizing images, making predictions, and solving problems.
+
+Machine Learning is a subset of Artificial Intelligence. In machine learning, computers learn patterns from data and use those patterns to make predictions or decisions without being explicitly programmed for every situation.
+
+LangChain is a framework used for developing applications powered by language models. It provides components such as models, prompts, output parsers, document loaders, text splitters, embeddings, vector stores, retrievers, tools, and agents.
+
+RAG stands for Retrieval-Augmented Generation. RAG allows an AI application to retrieve relevant information from external documents and provide that information to a language model as context before generating an answer.
+
+Embeddings convert text into numerical vectors. These vectors represent the semantic meaning of text and can be compared to find similar information.
+
+FAISS is a library used for efficient similarity search of vectors. In RAG applications, FAISS can be used as a vector store to store embeddings and retrieve similar document chunks.
+
+A Retriever is responsible for retrieving relevant documents or chunks based on a user's query. It is commonly used in RAG systems between the vector store and the language model.
+
+An AI Agent is a system that can decide what action to take based on a user's request. Agents can use tools such as calculators, search functions, databases, or APIs to complete tasks.
